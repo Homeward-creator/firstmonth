@@ -152,14 +152,14 @@
 }
 
 @-webkit-keyframes grow {
-  100% {
+  0% {
     transform: rotate(15deg);
     will-change: transform;
   }
 }
 
 @keyframes grow {
-  100% {
+  0% {
     transform: rotate(15deg);
     will-change: transform;
 
