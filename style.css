@@ -176,37 +176,37 @@
 
 }
 .rose:nth-child(1) {
-  z-index: 6;
+  z-index: 76;
   height: 7.85vmin;
   width: 7.85vmin;
 }
 .rose:nth-child(2) {
-  z-index: 5;
+  z-index: 75;
   height: 12vmin;
   width: 12vmin;
 }
 .rose:nth-child(3) {
-  z-index: 4;
+  z-index: 74;
   height: 16.55vmin;
   width: 16.55vmin;
 }
 .rose:nth-child(4) {
-  z-index: 3;
+  z-index: 73;
   height: 16.15vmin;
   width: 16.15vmin;
 }
 .rose:nth-child(5) {
-  z-index: 2;
+  z-index: 72;
   height: 22.55vmin;
   width: 22.55vmin;
 }
 .rose:nth-child(6) {
-  z-index: 1;
+  z-index: 71;
   height: 26.75vmin;
   width: 26.75vmin;
 }
 .rose:nth-child(7) {
-  z-index: 0;
+  z-index: 70;
   height: 29.4vmin;
   width: 29.4vmin;
 }
