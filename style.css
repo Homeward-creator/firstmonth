@@ -152,14 +152,131 @@
 }
 
 @-webkit-keyframes grow {
-  0% {
+  10% {
+    transform: rotate(15deg);
+    will-change: transform;
+  }
+}
+@-webkit-keyframes grow {
+  20% {
+    transform: rotate(15deg);
+    will-change: transform;
+  }
+}
+@-webkit-keyframes grow {
+  30% {
+    transform: rotate(15deg);
+    will-change: transform;
+  }
+}
+@-webkit-keyframes grow {
+  40% {
+    transform: rotate(15deg);
+    will-change: transform;
+  }
+}
+@-webkit-keyframes grow {
+  50% {
+    transform: rotate(15deg);
+    will-change: transform;
+  }
+}
+@-webkit-keyframes grow {
+  60% {
+    transform: rotate(15deg);
+    will-change: transform;
+  }
+}
+@-webkit-keyframes grow {
+  70% {
+    transform: rotate(15deg);
+    will-change: transform;
+  }
+}
+@-webkit-keyframes grow {
+  80% {
+    transform: rotate(15deg);
+    will-change: transform;
+  }
+}
+@-webkit-keyframes grow {
+  90% {
+    transform: rotate(15deg);
+    will-change: transform;
+  }
+}
+@-webkit-keyframes grow {
+  100% {
     transform: rotate(15deg);
     will-change: transform;
   }
 }
 
 @keyframes grow {
-  0% {
+  10% {
+    transform: rotate(15deg);
+    will-change: transform;
+
+  }
+}
+@keyframes grow {
+  20% {
+    transform: rotate(15deg);
+    will-change: transform;
+
+  }
+}
+@keyframes grow {
+  30% {
+    transform: rotate(15deg);
+    will-change: transform;
+
+  }
+}
+@keyframes grow {
+  40% {
+    transform: rotate(15deg);
+    will-change: transform;
+
+  }
+}
+@keyframes grow {
+  50% {
+    transform: rotate(15deg);
+    will-change: transform;
+
+  }
+}
+@keyframes grow {
+  60% {
+    transform: rotate(15deg);
+    will-change: transform;
+
+  }
+}
+@keyframes grow {
+  70% {
+    transform: rotate(15deg);
+    will-change: transform;
+
+  }
+}
+@keyframes grow {
+  80% {
+    transform: rotate(15deg);
+    will-change: transform;
+
+  }
+}
+@keyframes grow {
+  90% {
+    transform: rotate(15deg);
+    will-change: transform;
+
+  }
+}
+@keyframes grow {
+  100% {
     transform: rotate(15deg);
     will-change: transform;
 
