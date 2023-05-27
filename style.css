@@ -148,17 +148,21 @@
   -webkit-animation: grow 10s forwards;
           animation: grow 10s forwards;
   transform: rotate(-180deg);
+  will-change: transform;
 }
 
 @-webkit-keyframes grow {
   100% {
     transform: rotate(15deg);
+    will-change: transform;
   }
 }
 
 @keyframes grow {
   100% {
     transform: rotate(15deg);
+    will-change: transform;
+
   }
 }
 .rose {
@@ -168,6 +172,8 @@
   perspective: 50em;
   transform: translate(-50%, -50%) rotate(-25deg);
   transform-style: preserve-3d;
+  will-change: transform;
+
 }
 .rose:nth-child(1) {
   z-index: 6;
