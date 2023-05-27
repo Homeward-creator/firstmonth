@@ -602,12 +602,14 @@
 @-webkit-keyframes flower-1 {
   100% {
     transform: translate(-50%, 0) rotateZ(51.4285714286deg) rotateX(0) rotateY(8deg) scale(1);
+    -webkit-transform: translateZ(0px);
   }
 }
 
 @keyframes flower-1 {
   100% {
     transform: translate(-50%, 0) rotateZ(51.4285714286deg) rotateX(0) rotateY(8deg) scale(1);
+    
   }
 }
 @-webkit-keyframes flower-2 {
