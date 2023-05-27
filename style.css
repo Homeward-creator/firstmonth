@@ -151,134 +151,21 @@
   will-change: transform;
 }
 
-@-webkit-keyframes grow {
-  10% {
-    transform: rotate(15deg);
-    will-change: transform;
-  }
-}
-@-webkit-keyframes grow {
-  20% {
-    transform: rotate(15deg);
-    will-change: transform;
-  }
-}
-@-webkit-keyframes grow {
-  30% {
-    transform: rotate(15deg);
-    will-change: transform;
-  }
-}
-@-webkit-keyframes grow {
-  40% {
-    transform: rotate(15deg);
-    will-change: transform;
-  }
-}
-@-webkit-keyframes grow {
-  50% {
-    transform: rotate(15deg);
-    will-change: transform;
-  }
-}
-@-webkit-keyframes grow {
-  60% {
-    transform: rotate(15deg);
-    will-change: transform;
-  }
-}
-@-webkit-keyframes grow {
-  70% {
-    transform: rotate(15deg);
-    will-change: transform;
-  }
-}
-@-webkit-keyframes grow {
-  80% {
-    transform: rotate(15deg);
-    will-change: transform;
-  }
-}
-@-webkit-keyframes grow {
-  90% {
-    transform: rotate(15deg);
-    will-change: transform;
-  }
-}
+
 @-webkit-keyframes grow {
   100% {
     transform: rotate(15deg);
     will-change: transform;
-  }
-}
-
-@keyframes grow {
-  10% {
-    transform: rotate(15deg);
-    will-change: transform;
+    -webkit-transform: translateZ(1px);
 
   }
 }
-@keyframes grow {
-  20% {
-    transform: rotate(15deg);
-    will-change: transform;
 
-  }
-}
-@keyframes grow {
-  30% {
-    transform: rotate(15deg);
-    will-change: transform;
-
-  }
-}
-@keyframes grow {
-  40% {
-    transform: rotate(15deg);
-    will-change: transform;
-
-  }
-}
-@keyframes grow {
-  50% {
-    transform: rotate(15deg);
-    will-change: transform;
-
-  }
-}
-@keyframes grow {
-  60% {
-    transform: rotate(15deg);
-    will-change: transform;
-
-  }
-}
-@keyframes grow {
-  70% {
-    transform: rotate(15deg);
-    will-change: transform;
-
-  }
-}
-@keyframes grow {
-  80% {
-    transform: rotate(15deg);
-    will-change: transform;
-
-  }
-}
-@keyframes grow {
-  90% {
-    transform: rotate(15deg);
-    will-change: transform;
-
-  }
-}
 @keyframes grow {
   100% {
     transform: rotate(15deg);
     will-change: transform;
+    -webkit-transform: translateZ(1px);
 
   }
 }
@@ -288,7 +175,6 @@
   left: 50%;
   perspective: 50em;
   transform: translate(-50%, -50%) rotate(-25deg);
-  transform-style: preserve-3d;
   will-change: transform;
 
 }
